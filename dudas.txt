@@ -8,4 +8,5 @@
    * No me es claro lo que hay que hacer.
 
 	Sesión asincrónica BF-9:
-
+   * ¿Por qué en el "package.json" sale una línea que dice "Depuación de >"? ¿Para qué es?
+   
