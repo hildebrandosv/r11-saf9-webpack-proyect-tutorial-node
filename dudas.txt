@@ -1,0 +1,8 @@
+	
+	Dudas:
+
+	Sesión asincrónica BF-7: ¿Cómo hacer una función con FETCH que me devuelva V/F?.
+
+	Sesión asincrónica BF-8: No me es claro lo que hay que hacer.
+
+	Sesión asincrónica BF-9: 
